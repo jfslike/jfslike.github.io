@@ -1,0 +1,89 @@
+body{
+    background-color: slategray;
+}
+
+.footer{
+    
+   
+    
+    
+    text-align: center;
+    
+    
+    
+}
+.sub-footer{
+    background-color: red;
+    max-width: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.blocks{
+    background-color: aqua;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.one{
+   
+    
+}
+.two{
+   
+    
+}
+
+
+h1 {font-family: impact}
+h1 {font-size: 3rem}
+h1 {text-align: center}
+img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+    border: 0.3rem solid gainsboro;
+}
+h3{
+    font-family: impact;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+h2{
+    background-color: lightsteelblue;
+    background-clip:content-box;
+    font-family: arial narrow;
+    font-size: 0.9rem;
+    text-align: center;
+    padding-left: 10rem;
+    padding-right: 10rem;
+  
+    
+    
+}
+
+
+divparent{
+    display: flex;
+    flex-direction: row;
+    font-family: impact;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.container{
+   align-items: center;
+   align-content: center;
+   align-self: center;
+   text-align: center;
+
+}
