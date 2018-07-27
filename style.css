@@ -13,17 +13,19 @@ body{
     
 }
 .sub-footer{
-    background-color: red;
+    background-color:black;
     max-width: 200px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    color: white;
+    font-family: impact;
 
 }
 
 
 .blocks{
-    background-color: aqua;
+    background-color: lightsteelblue;
     text-align: center;
     border-radius: 5px;
     display: inline-block;
@@ -32,14 +34,7 @@ body{
     margin-right: 100px;
 }
 
-.one{
-   
-    
-}
-.two{
-   
-    
-}
+
 
 
 h1 {font-family: impact}
@@ -85,5 +80,6 @@ divparent{
    align-content: center;
    align-self: center;
    text-align: center;
+   font-family: impact;
 
 }
